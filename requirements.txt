@@ -1,0 +1,33 @@
+# LangChain Core
+langchain
+langchain-core
+langchain_community
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# ollama
+ollama
+streamlit
+langchain-ollama
+
+# Audio processing
+# streamlit-audio-recorder  # Commented out as it's causing installation issues
+SpeechRecognition
+gTTS
+pydub
+
+# RAG Pipeline
+chromadb
+sentence-transformers
+PyPDF2
+pandas
