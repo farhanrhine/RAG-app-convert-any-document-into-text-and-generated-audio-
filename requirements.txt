@@ -31,3 +31,10 @@ chromadb
 sentence-transformers
 PyPDF2
 pandas
+pypdf
+
+# Additional dependencies
+tempfile
+uuid
+os
+re
